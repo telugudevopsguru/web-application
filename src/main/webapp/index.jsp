@@ -11,9 +11,9 @@
 <p style="text-align:center; color: brown">
   Thanks,<br>
   Moole Muralidhara Reddy<br>
-  techworldwithmurali.com<br>
-  techworldwithmurali@gmail.com<br>
-  <b>Youtube Channel:</b> TechWorld with Murali<br>
+  telugudevopsguru.com<br>
+  telugudevopsguru@gmail.com<br>
+  <b>Youtube Channel:</b> Telugu DevOps Guru<br>
 </p>
 </body>
 </html>
